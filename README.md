@@ -1,5 +1,8 @@
 # AllSensorValues : Garmin watch Widget
 
+## Screenshots
+![alt text](https://raw.githubusercontent.com/jimmycaille/AllSensorValues/master/Screenshots/AnalogEdge_2.png "Screenshot 1")
+
 ## Compatible devices
 * Vivoactive 3
 * Vivoactive 3 Music
