@@ -7,37 +7,69 @@
 <entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesApp.mc" id="5" lineNum="14" pc="268435484" symbol="onStop"/>
 <entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesApp.mc" id="6" lineNum="18" pc="268435489" symbol="getInitialView"/>
 <entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesApp.mc" id="6" lineNum="19" pc="268435493" symbol="getInitialView"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="8" lineNum="7" pc="268435531" symbol="initialize"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="8" lineNum="8" pc="268435535" symbol="initialize"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="8" lineNum="10" pc="268435553" symbol="initialize"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="8" lineNum="11" pc="268435615" symbol="initialize"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="14" pc="268435648" symbol="onSensor"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="15" pc="268435652" symbol="onSensor"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="16" pc="268435673" symbol="onSensor"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="17" pc="268435750" symbol="onSensor"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="18" pc="268435833" symbol="onSensor"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="19" pc="268435854" symbol="onSensor"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="20" pc="268435884" symbol="onSensor"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="21" pc="268435914" symbol="onSensor"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="22" pc="268435944" symbol="onSensor"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="23" pc="268435974" symbol="onSensor"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="24" pc="268436031" symbol="onSensor"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="25" pc="268436088" symbol="onSensor"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="10" lineNum="31" pc="268436136" symbol="onLayout"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="10" lineNum="32" pc="268436140" symbol="onLayout"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="11" lineNum="38" pc="268436178" symbol="onShow"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="12" lineNum="42" pc="268436183" symbol="onUpdate"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="12" lineNum="44" pc="268436187" symbol="onUpdate"/>
-<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="50" pc="268436208" symbol="onHide"/>
-<entry filename="Rez" id="20" lineNum="21" pc="268436213" symbol="MainLayout"/>
-<entry filename="Rez" id="20" lineNum="25" pc="268436225" symbol="MainLayout"/>
-<entry filename="Rez" id="20" lineNum="26" pc="268436356" symbol="MainLayout"/>
-<entry filename="Rez" id="20" lineNum="27" pc="268436408" symbol="MainLayout"/>
-<entry filename="Rez" id="20" lineNum="30" pc="268436460" symbol="MainLayout"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="8" lineNum="9" pc="268435531" symbol="initialize"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="8" lineNum="10" pc="268435535" symbol="initialize"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="18" pc="268435554" symbol="onPosition"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="19" pc="268435558" symbol="onPosition"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="20" pc="268435597" symbol="onPosition"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="21" pc="268435618" symbol="onPosition"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="22" pc="268435745" symbol="onPosition"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="23" pc="268435775" symbol="onPosition"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="24" pc="268435805" symbol="onPosition"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="25" pc="268435880" symbol="onPosition"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="26" pc="268435910" symbol="onPosition"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="9" lineNum="27" pc="268436015" symbol="onPosition"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="10" lineNum="30" pc="268436037" symbol="onSensor"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="10" lineNum="31" pc="268436041" symbol="onSensor"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="10" lineNum="32" pc="268436062" symbol="onSensor"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="10" lineNum="33" pc="268436092" symbol="onSensor"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="10" lineNum="34" pc="268436122" symbol="onSensor"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="10" lineNum="35" pc="268436152" symbol="onSensor"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="10" lineNum="36" pc="268436182" symbol="onSensor"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="10" lineNum="37" pc="268436239" symbol="onSensor"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="10" lineNum="38" pc="268436296" symbol="onSensor"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="11" lineNum="44" pc="268436344" symbol="onLayout"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="11" lineNum="45" pc="268436348" symbol="onLayout"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="12" lineNum="51" pc="268436386" symbol="onShow"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="55" pc="268436391" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="57" pc="268436395" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="62" pc="268436415" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="63" pc="268436492" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="64" pc="268436575" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="65" pc="268436596" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="66" pc="268436639" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="67" pc="268436682" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="68" pc="268436725" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="69" pc="268436763" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="71" pc="268436893" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="73" pc="268436914" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="74" pc="268436952" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="76" pc="268437082" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="78" pc="268437103" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="79" pc="268437146" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="80" pc="268437211" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="81" pc="268437254" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="82" pc="268437297" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="83" pc="268437362" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="84" pc="268437405" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="85" pc="268437448" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="86" pc="268437607" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="87" pc="268437650" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="102" pc="268437693" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="103" pc="268437696" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="13" lineNum="104" pc="268437713" symbol="onUpdate"/>
+<entry filename="D:\\git\\AllSensorValues\\AllSensorValues\\source\\AllSensorValuesView.mc" id="14" lineNum="120" pc="268437955" symbol="onHide"/>
+<entry filename="Rez" id="21" lineNum="21" pc="268437960" symbol="MainLayout"/>
+<entry filename="Rez" id="21" lineNum="25" pc="268437972" symbol="MainLayout"/>
+<entry filename="Rez" id="21" lineNum="26" pc="268438103" symbol="MainLayout"/>
+<entry filename="Rez" id="21" lineNum="27" pc="268438155" symbol="MainLayout"/>
+<entry filename="Rez" id="21" lineNum="30" pc="268438207" symbol="MainLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388644" module="true" symbol="System"/>
+<entry id="8388987" method="true" symbol="vibrate"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8390485" symbol="bluetooth"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="9" object="true" symbol="AllSensorValuesApp"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
@@ -45,9 +77,10 @@
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8388639" module="true" symbol="Graphics"/>
 <entry id="15" method="true" symbol="MainLayout"/>
-<entry id="17" method="true" symbol="onSensor"/>
+<entry id="18" method="true" symbol="onSensor"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry field="true" id="16" symbol="AppName"/>
 <entry field="true" id="14" symbol="LauncherIcon"/>
@@ -59,7 +92,10 @@
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry field="true" id="13" symbol="id_monkey"/>
+<entry field="true" id="8390484" symbol="wifi"/>
+<entry id="17" method="true" symbol="onPosition"/>
 <entry id="12" module="true" symbol="Layouts"/>
+<entry id="8388642" module="true" symbol="Position"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry id="8389345" symbol="rezId"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
@@ -72,11 +108,14 @@
 <localVars>
 <entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
 <entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
-<entry endPc="268436136" name="sensorInfo" stackId="1" startPc="268435648"/>
-<entry endPc="268436178" name="dc" stackId="1" startPc="268436136"/>
-<entry endPc="268436208" name="dc" stackId="1" startPc="268436183"/>
-<entry endPc="268436477" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268436225"/>
-<entry endPc="268436478" name="dc" stackId="1" startPc="268436213"/>
+<entry endPc="268436036" name="date" stackId="2" startPc="268435558"/>
+<entry endPc="268436037" name="info" stackId="1" startPc="268435554"/>
+<entry endPc="268436344" name="sensorInfo" stackId="1" startPc="268436037"/>
+<entry endPc="268436386" name="dc" stackId="1" startPc="268436344"/>
+<entry endPc="268437954" name="vibeData" stackId="2" startPc="268436395"/>
+<entry endPc="268437955" name="dc" stackId="1" startPc="268436391"/>
+<entry endPc="268438224" name="rez_cmp_local_bitmap_id_monkey" stackId="2" startPc="268437972"/>
+<entry endPc="268438225" name="dc" stackId="1" startPc="268437960"/>
 </localVars>
 <annotations/>
 <functions>
@@ -95,6 +134,10 @@
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="initialize" parent="AllSensorValuesView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPosition" parent="AllSensorValuesView">
+<param id="info"/>
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onSensor" parent="AllSensorValuesView">
