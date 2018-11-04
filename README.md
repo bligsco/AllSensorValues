@@ -1,7 +1,7 @@
 # AllSensorValues : Garmin watch Widget
 
 ## Screenshots
-![alt text](https://raw.githubusercontent.com/jimmycaille/AllSensorValues/master/Screenshots/AnalogEdge_2.png "Screenshot 1")
+![Screenshot 1](https://raw.githubusercontent.com/jimmycaille/AllSensorValues/master/Screenshots/AnalogEdge_2.png "Screenshot 1")
 
 ## Compatible devices
 * Vivoactive 3
