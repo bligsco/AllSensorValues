@@ -55,8 +55,8 @@ class AllSensorValuesView extends WatchUi.View {
     function onUpdate(dc) {
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
-        
-        
+        dc.setColor(Graphics.COLOR_WHITE,Graphics.COLOR_TRANSPARENT);
+        dc.drawText(120,120,Graphics.FONT_MEDIUM,"TEST",Graphics.TEXT_JUSTIFY_CENTER);
         
         
     	System.println("batt [%]:" + System.getSystemStats().battery + " ("+System.getSystemStats().charging+")");
