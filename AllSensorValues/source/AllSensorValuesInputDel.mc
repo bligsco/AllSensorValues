@@ -11,6 +11,7 @@ using Toybox.System;
 var last_key = null;
 var last_behavior = null;
 
+//it extends inputDelegate
 class AllSensorValuesInputDel extends WatchUi.BehaviorDelegate {
 
     enum {
@@ -37,12 +38,23 @@ class AllSensorValuesInputDel extends WatchUi.BehaviorDelegate {
     function onPreviousPage() {
         last_behavior = ON_PREV_PAGE;
     	System.println("ON_PREV_PAGE");
+    	
+    	
+    	//TEST
+        WatchUi.popView(WatchUi.SLIDE_IMMEDIATE);
         return false;
     }
 
     function onMenu() {
         last_behavior = ON_MENU;
     	System.println("ON_MENU");
+    	
+    	//test
+    	var view = new View2();
+        var delegate = new AllSensorValuesInputDel();
+        WatchUi.pushView(view, delegate, WatchUi.SLIDE_IMMEDIATE);
+    	
+    	
         return false;
     }
 
@@ -75,17 +87,17 @@ class AllSensorValuesInputDel extends WatchUi.BehaviorDelegate {
 
     function onTap(evt) {
     	System.println("onTap");
-        return true;
+        return false;//
     }
 
     function onHold(evt) {
     	System.println("onHold");
-        return true;
+        return false;//
     }
 
     function onRelease(evt) {
     	System.println("onRelease");
-        return true;
+        return false;//
     }
 
     function onSwipe(evt) {
@@ -101,7 +113,7 @@ class AllSensorValuesInputDel extends WatchUi.BehaviorDelegate {
     		System.println("swipe l");
         }
 
-        return true;
+        return false;//
     }
 
     function onKey(evt) {
@@ -119,7 +131,7 @@ class AllSensorValuesInputDel extends WatchUi.BehaviorDelegate {
 
         last_key = key;
 
-        return true;
+        return false;//
     }
 
     function onKeyPressed(evt) {
@@ -127,7 +139,7 @@ class AllSensorValuesInputDel extends WatchUi.BehaviorDelegate {
         if( keyString != null ) {
         }
 
-        return true;
+        return false;//
     }
 
     function onKeyReleased(evt) {
@@ -135,7 +147,7 @@ class AllSensorValuesInputDel extends WatchUi.BehaviorDelegate {
         if( keyString != null ) {
         }
 
-        return true;
+        return false;//
     }
 
     function getKeyString(key) {
