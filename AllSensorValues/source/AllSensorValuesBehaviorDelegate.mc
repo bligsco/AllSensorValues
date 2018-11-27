@@ -12,7 +12,7 @@ var last_key = null;
 var last_behavior = null;
 
 //it extends inputDelegate
-class AllSensorValuesInputDel extends WatchUi.BehaviorDelegate {
+class AllSensorValuesBehaviorDelegate extends WatchUi.BehaviorDelegate {
 
     enum {
         ON_NEXT_PAGE,
@@ -51,8 +51,9 @@ class AllSensorValuesInputDel extends WatchUi.BehaviorDelegate {
     	
     	//test
     	var view = new View2();
-        var delegate = new AllSensorValuesInputDel();
-        WatchUi.pushView(view, delegate, WatchUi.SLIDE_IMMEDIATE);
+        var delegate = new AllSensorValuesInputDelegate();
+        
+        //WatchUi.pushView(view, delegate, WatchUi.SLIDE_IMMEDIATE);
     	
     	
         return false;

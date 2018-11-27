@@ -16,7 +16,7 @@ class AllSensorValuesApp extends Application.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() {
-        return [ new AllSensorValuesView(), new AllSensorValuesInput(), new AllSensorValuesInputDel()];
+        return [ new AllSensorValuesView(), new AllSensorValuesBehaviorDelegate()];
     }
 
 }
