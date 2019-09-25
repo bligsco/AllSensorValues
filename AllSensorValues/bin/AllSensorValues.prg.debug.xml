@@ -221,7 +221,7 @@
 <entry field="true" id="26" symbol="ON_MENU"/>
 <entry id="14" object="true" symbol="AllSensorValuesBehaviorDelegate"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
-<entry field="true" id="8390485" symbol="bluetooth"/>
+<entry id="8390485" symbol="bluetooth"/>
 <entry id="8389097" method="true" symbol="onKey"/>
 <entry field="true" id="27" symbol="ON_BACK"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
@@ -262,7 +262,7 @@
 <entry field="true" id="12" symbol="last_key"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry field="true" id="18" symbol="id_monkey"/>
-<entry field="true" id="8390484" symbol="wifi"/>
+<entry id="8390484" symbol="wifi"/>
 <entry field="true" id="24" symbol="ON_NEXT_PAGE"/>
 <entry id="22" method="true" symbol="onPosition"/>
 <entry id="17" module="true" symbol="Layouts"/>
